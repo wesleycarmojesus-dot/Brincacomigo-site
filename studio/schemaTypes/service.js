@@ -1,1 +1,10 @@
-export default {name:'service',title:'Servi‡o',type:'document',fields:[{name:'title',title:'T¡tulo',type:'string'},{name:'description',title:'Descri‡Æo',type:'text'},{name:'serviceType',title:'Tipo',type:'string'}]} 
+export default {
+  name: 'service',
+  title: 'Servico',
+  type: 'document',
+  fields: [
+    { name: 'title', title: 'Titulo', type: 'string' },
+    { name: 'description', title: 'Descricao', type: 'text' },
+    { name: 'serviceType', title: 'Tipo', type: 'string' },
+  ],
+}
