@@ -1,0 +1,1 @@
+export default {name:'service',title:'Servi‡o',type:'document',fields:[{name:'title',title:'T¡tulo',type:'string'},{name:'description',title:'Descri‡Æo',type:'text'},{name:'serviceType',title:'Tipo',type:'string'}]} 

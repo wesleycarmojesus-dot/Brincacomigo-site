@@ -1,0 +1,1 @@
+export default {name:'siteSettings',title:'Defini‡äes do Site',type:'document',fields:[{name:'heroTitle',title:'T¡tulo Principal',type:'string'},{name:'heroSubtitle',title:'Subt¡tulo',type:'text'},{name:'email',title:'Email',type:'string'},{name:'instagram',title:'Instagram',type:'url'}]} 
